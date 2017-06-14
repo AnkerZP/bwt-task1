@@ -1,0 +1,10 @@
+composer.phar
+composer.lock
+/vendor
+/.idea
+.htaccess
+/application/config/database.php
+/upload/*.img*
+/upload/*.jpg*
+/upload/*.jpeg*
+/upload/*.png*

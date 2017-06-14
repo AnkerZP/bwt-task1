@@ -1,0 +1,6 @@
+<?php
+    $host = '192.168.10.251';
+    $dbname = 'draevskiy';
+    $user = 'root_ds';
+    $pass = 'D7m1K7i4';
+    $charset = 'utf8';
